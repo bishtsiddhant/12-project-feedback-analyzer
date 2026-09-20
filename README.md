@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 1: Customer Feedback Analyzer (Gen AI)
 
 This is your first full project. It puts together almost everything from the course into one real, useful app.
@@ -134,3 +135,7 @@ The project works, but a real project is never "finished." Try these:
 ## You did it
 
 You just built a two-part AI application: a backend service and a dashboard that talks to it. This is the real shape of most AI products. From here, you can swap the "analyze a review" idea for almost anything — summarize documents, tag support tickets, draft replies — and the structure stays the same.
+=======
+# 12-project-feedback-analyzer
+This project lets us understand how can we use the large language models to analyaze the customer feedback .
+>>>>>>> 9eeaed3a8072f398c37c6907fbd05326675de8b7
